@@ -172,7 +172,7 @@
                 </div>
             </div>
         </div>
-        <div>isikan ini <input id="input-me" type="text" value="" style="color: #000000" /></div>
+        <div>isikan ini x <input id="input-me" type="text" value="" style="color: #000000" /></div>
         {{-- <script type="module">
             $(document).ready(function(){
                 $("#input-me").val("hehe keluar isinya")
